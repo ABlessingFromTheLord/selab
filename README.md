@@ -1,2 +1,2 @@
 # Fitness App
-![Android CI](https://github.com/RUB-SE-LAB/22B11/actions/workflows/android.yml/badge.svg)
+[Click here for a Small presentation](B11.pdf)
